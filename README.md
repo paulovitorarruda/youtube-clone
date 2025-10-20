@@ -25,16 +25,12 @@ O objetivo é praticar **estrutura semântica**, **layout responsivo** e **desig
 
 | 💡 Visual Desktop | 💡 Visual Mobile |
 |-------------------|----------------|
-| ![Preview Desktop](./ativos/preview-desktop.png) | ![Preview Mobile](./ativos/preview-mobile.png) |
-
-> *Adicione prints reais do seu projeto na pasta `ativos/` e renomeie como acima.*
+| ![Preview Desktop](./assets/preview-desktop.png) | ![Preview Mobile](./assets/preview-mobile.png) |
 
 ---
 
 ## 🌐 Visualizar Projeto Online
 🔗 **GitHub Pages:** [https://paulovitorarruda.github.io/youtube-clone/](https://paulovitorarruda.github.io/youtube-clone/)
-
-> *O link acima ficará ativo assim que você publicar o projeto no GitHub Pages (veja o passo 2 abaixo).*
 
 ---
 
