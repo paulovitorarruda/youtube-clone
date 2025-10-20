@@ -25,7 +25,7 @@ O objetivo é praticar **estrutura semântica**, **layout responsivo** e **desig
 
 | 💡 Visual Desktop | 💡 Visual Mobile |
 |-------------------|----------------|
-| ![Preview Desktop](./assets/preview-desktop.png) | ![Preview Mobile](./assets/preview-mobile.png) |
+| ![Preview Desktop](./assets/preview-desktop.png.png) | ![Preview Mobile](./assets/preview-mobile.png.png) |
 
 ---
 
